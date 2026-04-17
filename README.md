@@ -28,5 +28,5 @@ Este proyecto es una aplicación web desarrollada con Streamlit que permite expl
 
 
 
-👉 [Abrir aplicación en línea](https://proyecto-7-99m4.onrender.com)
+👉 [Abrir aplicación en línea]([proyecto-7-99m4.onrender.com in Bing](https://proyecto-7-99n4.onrender.com)
 
