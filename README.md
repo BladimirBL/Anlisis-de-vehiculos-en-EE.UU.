@@ -2,7 +2,7 @@
 
 Este proyecto es una aplicación web desarrollada con Streamlit que permite explorar un conjunto de datos de vehículos usados en Estados Unidos. Su objetivo es facilitar el análisis visual de información clave como el kilometraje y el año del modelo, ofreciendo una interfaz interactiva y sencilla para estudiantes, analistas en formación y cualquier persona interesada en el mercado automotriz.
 
-⚙️## Funcionalidades
+## ⚙️ Funcionalidades
 
 - Visualización de un histograma del kilometraje (`odometer`) de los vehículos.
 - Visualización de un gráfico de dispersión entre el año del modelo (`model_year`) y el kilometraje.
@@ -16,7 +16,7 @@ Este proyecto es una aplicación web desarrollada con Streamlit que permite expl
 
 
 
-🚀## Cómo usar la aplicación
+## 🚀 Cómo usar la aplicación
 
 1) Haz clic en el siguiente enlace:
 👉 Abrir aplicación ([proyecto-7-99m4.onrender.com in Bing](https://proyecto-7-99n4.onrender.com))
