@@ -18,13 +18,13 @@ Este proyecto es una aplicación web desarrollada con Streamlit que permite expl
 
 🚀## Cómo usar la aplicación
 
-- Haz clic en el siguiente enlace:
-👉 Abrir aplicación (proyecto-7-99m4.onrender.com in Bing)
-- Se abrirá en tu navegador como una página web.
-- Marca las casillas de verificación para elegir las visualizaciones que quieras explorar:
-- Histograma del kilometraje
-- Gráfico de dispersión año vs. kilometraje
-- Interactúa con los gráficos de manera dinámica, sin necesidad de instalar nada en tu equipo.
+1) Haz clic en el siguiente enlace:
+👉 Abrir aplicación ([proyecto-7-99m4.onrender.com in Bing](https://proyecto-7-99n4.onrender.com))
+2) Se abrirá en tu navegador como una página web.
+3) Marca las casillas de verificación para elegir las visualizaciones que quieras explorar:
+   -Histograma del kilometraje
+   -Gráfico de dispersión año vs. kilometraje
+4) Interactúa con los gráficos de manera dinámica, sin necesidad de instalar nada en tu equipo.
 
 
 Porfavor dirijase a este link: https://proyecto-7-99n4.onrender.com
